@@ -14,7 +14,7 @@
 
 ### 🚀 Featured: [JARVIS](https://github.com/borhanslm/jarvis-agents)
 
-<a href="https://github.com/borhanslm/jarvis-agents"><img alt="JARVIS" src="https://raw.githubusercontent.com/borhanslm/jarvis-agents/main/docs/banners/neon-1280x640.png" width="100%"></a>
+<a href="https://github.com/borhanslm/jarvis-agents"><img alt="JARVIS" src="https://raw.githubusercontent.com/borhanslm/jarvis-agents/main/docs/screenshots/home.png" width="100%"></a>
 
 A local Windows app that turns two AI coding agents into a team: a **builder** writes the code, a **reviewer** tests it and reports bugs, and they loop until the reviewer approves.
 
